@@ -24,7 +24,7 @@
     <a href="https://www.instagram.com/dev.paola/?hl=pt-br"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
     <a href="mailto:paola.guedes@unesp.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
     
-    ![Snake animation](https://github.com/PaolaGuedes/PaolaGuedes/blob/output/dist/github-contribution-grid-snake.svg)
+    ![Snake animation](https://github.com/paolaguedes/paolaguedes/blob/output/github-contribution-grid-snake.svg)
   </div>
   
   
