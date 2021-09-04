@@ -1,6 +1,6 @@
 ### < Ola, eu sou a Paola Guedes />
 - 🌱 Estudante de Ciência da Computação
-- 🐱‍👤 Meu foco é atuar como front-end
+- ✨ Meu foco é atuar como front-end
 
  <div>
   <a href="https://github.com/PaolaGuedes">
