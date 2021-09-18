@@ -1,4 +1,4 @@
-### < Ola, eu sou a Paola Guedes />
+### < Olá, eu sou a Paola Guedes />
 - 🌱 Estudante de Ciência da Computação
 - ✨ Meu foco é atuar como front-end
 
